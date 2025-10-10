@@ -46,6 +46,6 @@
 ---
 <!-- GIF inferior (70% del ancho, alineado a la derecha) -->
 <p align="middle">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9reGZtNzZ4NXN5YzFxZXR4OGY4ZjdkcGQ4NzBzbDl0bnV6aXRlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/59YFVq6J9D22zcRyk8/giphy.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpzOGpvbHY4M3RoeHJ4M2d0eDc3eWw2MHNsazkzYXF2a3RpMnZxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" 
        alt="Bottom Right GIF" width="70%"/>
 </p>
