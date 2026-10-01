@@ -7,7 +7,7 @@
 <h1 align="center">Hi there! 👋 I'm batallaa</h1>
 
 <p align="center">
-  <b>Vocational Student in Microcomputer Systems and Networks</b><br>
+  <b>Vocational Student in Cross-platform application development</b><br>
   <i>Passionate about technology, programming, and game creation.</i>
 </p>
 
@@ -15,8 +15,8 @@
 
 ## 💻 About Me
 
-- 📚 Currently studying for my **second year in Microcomputer Systems and Networks**.
-- 🐍 Intermediate programming skills in **Python**.
+- 📚 Currently studying for my **first year in DAM**.
+- 🐍 Intermediate programming skills in **Python** and **Java**.
 - 🖥️ Intermediate level in many **office applications**.
 - 🖌️ Basic knowledge of **Blender** and intermediate experience with editing tools.
 - 🎮 Interested in **game development** projects, though I haven't published any yet!
@@ -30,6 +30,7 @@
 ![Office Apps](https://img.shields.io/badge/Office%20Apps-800000?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-430000?style=for-the-badge&logo=blender&logoColor=white)
 ![Editing](https://img.shields.io/badge/Editing-800000?style=for-the-badge)
+![Java](https://img.shields.io/badge/Python-430000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
