@@ -53,6 +53,22 @@ More projects will be added as I continue learning and developing my skills.
 
 ---
 
+# 📖 Bitàcola de Desenvolupador
+
+Aquest repositori també funciona com la meva **bitàcola personal de desenvolupador** durant el cicle de DAM.
+
+L'objectiu és registrar els projectes, exercicis i reptes que vaig superant durant el curs, mantenint el repositori actualitzat amb els meus progressos.
+
+### 📌 Objectius de la bitàcola
+
+- Registrar les pràctiques i activitats realitzades durant el cicle.
+- Documentar els coneixements i eines que vaig aprenent.
+- Guardar els projectes desenvolupats durant el curs.
+- Aprendre a utilitzar **Git i GitHub** en un entorn de treball real.
+- Construir progressivament el meu **portafoli personal de desenvolupador**.
+
+---
+
 ## 🌐 Contact
 
 - 📧 **Email:** alu.biel.batalla@mataro.epiaedu.cat
