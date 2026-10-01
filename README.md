@@ -30,7 +30,7 @@
 ![Office Apps](https://img.shields.io/badge/Office%20Apps-800000?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-430000?style=for-the-badge&logo=blender&logoColor=white)
 ![Editing](https://img.shields.io/badge/Editing-800000?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-430000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-430000?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
