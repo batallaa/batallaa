@@ -7,7 +7,7 @@
 <h1 align="center">Hi there! 👋 I'm batallaa</h1>
 
 <p align="center">
-  <b>Vocational Student in Cross-platform application development</b><br>
+  <b>Vocational Student in Cross-platform Application Development</b><br>
   <i>Passionate about technology, programming, and game creation.</i>
 </p>
 
@@ -36,7 +36,20 @@
 
 ## 🚀 Projects
 
-> ✨ I'm currently interested in game development and exploring new tech areas. My first projects will be coming soon!
+I'm currently interested in **game development**, programming and exploring new technology areas.
+
+Some of the projects and activities I am working on during my DAM studies include:
+
+- 🎮 Game development projects
+- 🐍 Python programming exercises
+- ☕ Java programming exercises
+- 🌐 Web development projects
+- 🗄️ Database and SQL exercises
+- 🐧 Linux and operating system practices
+- 🌐 Network configuration and administration
+- 🔧 Git and GitHub projects
+
+More projects will be added as I continue learning and developing my skills.
 
 ---
 
